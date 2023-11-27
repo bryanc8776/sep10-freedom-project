@@ -17,4 +17,8 @@ One skill I developed during this portion of the project is **Problem Decomposit
 
 Another skill I developed was **Growth Mindset**. I didn't really know what topics I wanted to do for this project, so I asked my sister for some advice. Patience was also necessary for me to complete my research and try to find some articles that would really help me by providing more information.
 
+[Next](entry03.md)
+
+[Home](../README.md)
+
 
