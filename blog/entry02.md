@@ -1,4 +1,4 @@
-# Entry 2
+# Entry 2: Research 
 ##### 11/27/23
 
 ### Findings
