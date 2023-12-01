@@ -26,8 +26,12 @@ For hardware, one google search I made was "Accounting Hardware" and chose this 
 * Dell desktops: Inspiron, XPS, Alienware, 3000, 5000, and 7000 series
 * All Chromebooks, Chromeboxes
 
-
 After thinking many people might know about most of these hardware, I did another google search on "Accounting Technological gadgets". The [article](https://www.cpacanada.ca/en/news/innovation/2019-02-15-ces-accountant-gadgets#:~:text=1.,cloud%2Dbased%20accountant%27s%20tool%20box) included 4 gadgets; the Fujitsu Scansnap IX1500, Cemtrex Smartdesk, Vuzix Blade Glasses, and Lenovo Thinkvision P44W. These gadgets will provide an increased efficiency as well as make accounting smoother.
+
+
+### Engineering Design Process
+In the Engineering Design Process, I have mostly defined the problem which is to improve the efficiency of technology in accounting and make it more known. Now, in step two, I have done most of my research that I will need to help me move onto the next step which is brainstorming possible solutions.
+
 
 
 
