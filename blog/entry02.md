@@ -33,6 +33,12 @@ After thinking many people might know about most of these hardware, I did anothe
 In the Engineering Design Process, I have mostly defined the problem which is to improve the efficiency of technology in accounting and make it more known. Now, in step two, I have done most of my research that I will need to help me move onto the next step which is brainstorming possible solutions.
 
 
+### Skills
+A skill I have grown in is **Organization**. In order to comprhend the information from the articles better, I had to take notes. For my notes, I used bullet points for the software apps and hardware gadgets and then indented every important detail that was part of the specific app/gadget.
+
+Another skill is **How to Google**. At first, my search for hardware was *Accounting Hardware*, but I didn't really see many specific tools or equipment. I then changed my search to *Accounting Technological gadgets* which helped me find a better source with more information on specific gadgets.
+
+
 
 
 [Previous](entry01.md) | [Next](entry03.md)
