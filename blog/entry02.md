@@ -17,24 +17,15 @@ Another search I did was "Top 10 accounting software" and found another [article
 #### Hardware
 For hardware, one google search I made was "Accounting Hardware" and chose this [article](https://www.abrigo.com/blog/tech-hardware-for-accountants-advisors-a-primer/). It gave a lot of examples of tech that is highly recommended for accounting and that would help the accountant. There were business-grade and home-grade laptops/desktops such as:
 
-* HP laptops: EliteBook, ProBook, ZBook, Elite
-* Envy and Spectre are gaming hardware and could also be used
 * HP desktops: EliteDesk, ProDesk, EliteOne, ProOne, Z-series
 * Dell laptops: Latitude, some Vostro, Precision Mobile Workstation devices
-* Dell desktops: Optiplex, Precision
-* Lenovo laptops: All Thinkpad, B-series devices
 * Lenovo desktops: M-series, P-series, Thinkcentre, Thinkstation
 * Microsoft Surface Pro, Surface Book
-
 * HP laptops: Stream, Streambook, Pavilion, Phoenix, Envy, Omen, Spectre
-* HP desktops: Stream, Pavilion, any others not in business grade device list
 * Lenovo laptops: Ideapad, Flex, E, N, Y, G, L, S, U, and Z-series, Yoga devices other than Thinkpad models
-* Lenovo desktops: A, B, C, H, K, and Q-series.  Ideacentre, Horizon and Erazer series devices
-* Dell laptops: Inspiron, some Vostro
 * Dell desktops: Inspiron, XPS, Alienware, 3000, 5000, and 7000 series
 * All Chromebooks, Chromeboxes
-* Microsoft Surface (not Surface Pro) tablet/laptops
-* All Apple-branded laptops and desktops
+
 
 After thinking many people might know about most of these hardware, I did another google search on "Accounting Technological gadgets". The [article](https://www.cpacanada.ca/en/news/innovation/2019-02-15-ces-accountant-gadgets#:~:text=1.,cloud%2Dbased%20accountant%27s%20tool%20box) included 4 gadgets; the Fujitsu Scansnap IX1500, Cemtrex Smartdesk, Vuzix Blade Glasses, and Lenovo Thinkvision P44W. These gadgets will provide an increased efficiency as well as make accounting smoother.
 
