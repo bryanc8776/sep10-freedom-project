@@ -5,12 +5,12 @@
 After choosing accounting as my topic and writing blog 1, I have done more research on the types of software and hardware found in accounting. By searching on google, I was able to find some interesting articles to help me gather more information and ideas.
 
 #### Software
-For software, I searched "Accounting apps this year" and found this [article](https://www.business.org/finance/accounting/best-accounting-apps/). Some of the software apps found in the article include
-* Zoho Books
-* Xero
-* QuickBooks Online
-* FreshBooks
-* Sage Business Cloud Accounting
+For software, I searched "Accounting apps this year" and found this [article](https://www.business.org/finance/accounting/best-accounting-apps/). Some of the software apps and their attributes found in the article include:
+* Zoho Books: Builds automated workflows
+* Xero: Accounting easy and affordable
+* QuickBooks Online: Mobile app, Send invoices with attached receipts via text, email, or messaging app—with the additional security of an encrypted link.
+* FreshBooks: Customizable recurring invoices that easily sync with the time tracking features
+* Sage Business Cloud Accounting: user friendly with colorful, easy-to-read dashboard reports and online trainings that help first-time business owners start establishing their companies.
 
 Another search I did was "Top 10 accounting software" and found another [article](https://www.softwareworld.co/best-accounting-software/). I haven't done much reading on it, but it includes many of the apps I saw in the first article.
 
