@@ -13,6 +13,9 @@ After forming ideas that seem pretty decent and will change accounting for the b
 2. Then I went on to put the past/present of accounting which includes the [**software**](https://www.business.org/finance/accounting/best-accounting-apps/) apps and [**hardware**](https://www.abrigo.com/blog/tech-hardware-for-accountants-advisors-a-primer/) [**equipment**](https://www.cpacanada.ca/en/news/innovation/2019-02-15-ces-accountant-gadgets#:~:text=1.,cloud%2Dbased%20accountant's%20tool%20box) I found on the articles with some important details about them.
 3. After that I solidified my inventions that could be the potential future of accounting and added details that describe their function.
 
+### Engineering Design Process
+In the EDP, I have defined the problem, done research, and now formed possible solutions that will help change accounting and improve the way technology is used. I feel like I have brainstormed good ideas and can move onto step 4, in which we have to plan the most promising solution.
+
 
 
 
