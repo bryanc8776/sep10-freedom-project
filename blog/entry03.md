@@ -1,8 +1,8 @@
-# Entry 3
+# Entry 3: Finalizing Content
 ##### 12/18/23
 
 ### Ideas
-After finding more about technology in accounting and synthesizing the information about the software and hardware, I came up with some possible inventions. I tried to see the drawbacks in other existing apps and use them to come up with the idea of an app that will include what is missing in the apps for accounting.
+After finishing up the research on technology in accounting, I came up with some possible inventions to improve accounting. I tried to use the things existing apps didn't have to come up with a possible app that will include the missing parts and some features that are already in them.
 
 
 
