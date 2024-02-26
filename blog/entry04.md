@@ -1,5 +1,5 @@
-# Entry 4
-##### X/X/XX
+# Entry 4: Choosing a LOYO Tool
+##### 2/25/24
 
 Text
 
