@@ -6,7 +6,10 @@ The tool I chose to learn on my own is [**A-Frame**](https://aframe.io/). **A-Fr
 
 ![aframe](https://github.com/bryanc8776/sep10-freedom-project/assets/146866834/f0780275-1c32-4639-ab72-04c376447c96)
 
+### Skills
+A skill I improved on throughout this experience was **Debugging**. At first, I struggled to understand **A-Frame** and how to change the example. The code I added was not working, so I tried to look for more information on how **A-Frame** and the code works. After some research and more tinkering with the code, I was able to do something like shown in the image above.
 
+Another skill was **Growth mindset**. I struggled a lot trying to tinker with **A-Frame** and felt like I wouldn't be able to learn how to make it work. Despite the struggle, I continued to try to create a new shape and finally I was able to create a cone.
 
 
 
