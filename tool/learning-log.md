@@ -12,8 +12,19 @@ Tool: **A-Frame**
 * Next I plan to try to create my own scene
 
 
-X/X/X:
-* Text
+3/4/24:
+* Today I tried using different primitives
+```HTML
+<a-scene>
+ <a-box color="red" position="-1 0.5 -3"></a-box>
+ <a-tetrahedron color="red" position="0 0 0" radius="5"></a-tetrahedron>
+ <a-octahedron color="#FF926B" material.height="1" material.width="1" radius="5"></a-octahedron>
+ <a-plane color="#CCC" height="10" width="20"></a-plane>
+ <a-plane src="#ground" height="20" width="30" position="1 1 1" rotation="-90 0 0"></a-plane>
+ 
+ <a-camera position="0 0 0"></a-camera>
+</a-scene>
+```
 
 
 <!-- 
