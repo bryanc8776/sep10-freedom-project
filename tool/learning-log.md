@@ -48,6 +48,24 @@ Tool: **A-Frame**
  ></a-plane>
 </a-scene>
 ```
+3/11/24:
+* I added animated boxes and a ground
+```HTML
+  <a-scene>
+      <a-cylinder id="ground" src="https://cdn.aframe.io/a-painter/images/floor.jpg" radius="100" height="0.1"></a-cylinder>
+      <a-assets>
+      <img id="texture" src="texture.png">
+      </a-assets>
+
+      <a-box src="#texture" position="0 1 0" ></a-box>
+      <a-box position="0 1 0" animation="property: position; to: 0 1 5; dur: 2000; easing: linear; loop: true" color="green"></a-box>
+      <a-box position="0 1 0" animation="property: position; to: 0 1 -5; dur: 2000; easing: linear; loop: true" color="red"></a-box>
+      <a-box position="0 1 0" animation="property: position; to: -5 1 0; dur: 2000; easing: linear; loop: true" color="black"></a-box>
+      <a-box position="0 1 0" animation="property: position; to: 5 1 0; dur: 2000; easing: linear; loop: true" color="white"></a-box>
+    
+  </a-scene>
+
+```
 
 <!-- 
 * Links you used today (websites, videos, etc)
