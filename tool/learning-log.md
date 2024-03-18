@@ -67,6 +67,66 @@ Tool: **A-Frame**
 
 ```
 
+3/17/24:
+* I tried to create my own scene using spheres, a ring, a box, a octahedron, and animated them.
+```HTML
+    <a-scene>
+      <a-box position="0 -1.5 0" rotation="0 45 0" color="#4CC3D9"></a-box>
+      <a-ring color="teal" radius-inner="0.5" radius-outer="1" position="0 0 0" width="20"></a-ring>
+      <a-octahedron color="red" radius="1" position="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000"></a-octahedron>
+      <a-ring color="teal" radius-inner="9.7" radius-outer="11" position="0 0 0"></a-ring>
+      
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="5 0 0" color="blue"></a-sphere>
+      </a-entity>
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="5 5 0" color="orange"></a-sphere>
+      </a-entity>
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="5 5 5" color="white"></a-sphere>
+      </a-entity>
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="0 0 5" color="red"></a-sphere>
+      </a-entity>
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="0 5 5" color="green"></a-sphere>
+      </a-entity>
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="5 0 5" color="yellow"></a-sphere>
+      </a-entity>
+
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="-5 0 0" color="blue"></a-sphere>
+      </a-entity>
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="-5 5 0" color="orange"></a-sphere>
+      </a-entity>
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="-5 5 -5" color="white"></a-sphere>
+      </a-entity>
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="0 0 -5" color="red"></a-sphere>
+      </a-entity>
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="0 5 -5" color="green"></a-sphere>
+      </a-entity>
+      <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="-5 0 -5" color="yellow"></a-sphere>
+      </a-entity>
+      
+      <a-plane
+        position="0 -2 0"
+        rotation="-90 0 0"
+        width="19"
+        height="17"
+        color="black"
+      ></a-plane>
+
+      <a-sky color="grey"></a-sky>
+    </a-scene>
+```
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
