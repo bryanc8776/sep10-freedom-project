@@ -128,9 +128,9 @@ Tool: **A-Frame**
 
 3/18/24:
 * Today I watched this [video](https://www.youtube.com/watch?v=mETucqeOmXA&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=2).
- * It showed me how I can add assets like textures and images
- * It also showed me how to open the inspector for A-Frame (ctrl + alt + i).
- * How to make some components the child of others
+  * It showed me how I can add assets like textures and images
+  * It also showed me how to open the inspector for A-Frame (ctrl + alt + i).
+  * How to make some components the child of others
 ```HTML
       <a-octahedron color="red" radius="1" position="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
         <a-ring color="teal" radius-inner="0.8" radius-outer="1.2" position="0 0 0" width="20" material="side: double"></a-ring>
@@ -141,8 +141,8 @@ Tool: **A-Frame**
 
 3/23/24:
 * I watched [this](https://www.youtube.com/watch?v=qB8Ejh_QdpE) video and read [this](https://aframe.io/docs/1.5.0/introduction/entity-component-system.html) document on the Entity-Component-System
- * Entity - containers that require things like components and give more flexibility than primitives.
- * Component - reusable modules that provide appearance, behavior, and functionality.
+  * Entity - containers that require things like components and give more flexibility than primitives.
+  * Component - reusable modules that provide appearance, behavior, and functionality.
 
 
 <!-- 
