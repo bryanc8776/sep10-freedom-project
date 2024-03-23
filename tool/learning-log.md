@@ -139,6 +139,12 @@ Tool: **A-Frame**
 * This made the ring rotate and move with the octahedron
 
 
+3/23/24:
+* I watched [this](https://www.youtube.com/watch?v=qB8Ejh_QdpE) video and read [this](https://aframe.io/docs/1.5.0/introduction/entity-component-system.html) document on the Entity-Component-System
+ * Entity - containers that require things like components and give more flexibility than primitives.
+ * Component - reusable modules that provide appearance, behavior, and functionality.
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
