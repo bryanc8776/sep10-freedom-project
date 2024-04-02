@@ -138,11 +138,24 @@ Tool: **A-Frame**
 ```
 * This made the ring rotate and move with the octahedron
 
-
 3/23/24:
 * I watched [this](https://www.youtube.com/watch?v=qB8Ejh_QdpE) video and read [this](https://aframe.io/docs/1.5.0/introduction/entity-component-system.html) document on the Entity-Component-System
   * Entity - containers that require things like components and give more flexibility than primitives.
   * Component - reusable modules that provide appearance, behavior, and functionality.
+
+4/1/24:
+* I tried using the `<a-entity>` tag.
+```HTML
+      <a-entity geometry="primitive:box" material="color:red" position="0 1 -2"></a-entity>
+      <a-entity geometry="primitive:box" material="color:green" position="0 2 -2"></a-entity>
+      <a-entity geometry="primitive:box" material="color:orange" position="0 3 -2"></a-entity>
+      <a-entity geometry="primitive:box" material="color:yellow" position="0 4 -2"></a-entity>
+      <a-entity geometry="primitive:box" material="color:pink" position="0 5 -2"></a-entity>
+      <a-entity geometry="primitive:box" material="color:purple" position="0 6 -2"></a-entity>
+      <a-entity geometry="primitive:box" material="color:gray" position="0 7 -2"></a-entity>
+      <a-entity geometry="primitive:box" material="color:cyan" position="0 8 -2"></a-entity>
+
+```
 
 
 <!-- 
