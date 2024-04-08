@@ -154,7 +154,55 @@ Tool: **A-Frame**
       <a-entity geometry="primitive:box" material="color:purple" position="0 6 -2"></a-entity>
       <a-entity geometry="primitive:box" material="color:gray" position="0 7 -2"></a-entity>
       <a-entity geometry="primitive:box" material="color:cyan" position="0 8 -2"></a-entity>
+```
 
+4/7/24:
+* I watched [this](https://www.youtube.com/playlist?list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84) youtube series on Aframe Webvr.
+  * [This](https://www.youtube.com/watch?v=r_pq9EuE-o0&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=11) video helped me understand how to make a cursor and animate it along with the other entities like when it hovers over it.
+  * [This](https://www.youtube.com/watch?v=UjvvtIQwaqo&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=11) video demonstrated how to use `<a-mixin>`to set `id`s for entities that you want to be the same or have similar properties.
+    * `<a-mixin>` should be placed inside `<a-assets>`
+  * The last `mixin` (right-most) will be shown.
+```HTML
+<a-scene>
+  <a-camera position="0 1 3"
+    ><a-entity
+      cursor="fuse: true; fuseTimeout: 1000;"
+      geometry="primitive: box; width: 0.1; height:0.1; depth:0.5;"
+      material="color: pink;"
+      position="0 0 -2"
+      animation__fusing="property: scale; from: 1 1 1; to: 0.5 0.5 0.5; startEvents: fusing;"
+      animation__reset="property: scale; to: 1 1 1; startEvents: mouseleave"
+    ></a-entity
+  ></a-camera>
+  <a-assets>
+    <a-mixin id="red" material="color: red"></a-mixin>
+    <a-mixin id="blue" material="color: blue"></a-mixin>
+    <a-mixin id="cube" geometry="primitive: box"></a-mixin>
+    <a-mixin id="sphere" geometry="primitive: sphere"></a-mixin>
+    <a-mixin
+      id="cylinder"
+      geometry="primitive: cylinder; height: 1.5; "
+    ></a-mixin>
+  </a-assets>
+
+  <a-entity
+    mixin="red cube"
+    position="0 -0.5 -3"
+    animation="property:rotation; from: 0 0 0; to: 0 360 0; dur: 2000; startEvents: click;"
+  ></a-entity>
+  <a-entity mixin="blue sphere"></a-entity>
+  <a-entity mixin="red cylinder" position=" 3 0 -3"></a-entity>
+  <a-entity mixin="red blue cylinder" position=" -3 0 -3"></a-entity>
+  <a-entity mixin="blue red cylinder sphere" position="0 0 -6"></a-entity>
+
+  <a-plane
+    position="0 -1 -3"
+    rotation="-90 0 0"
+    width="10"
+    height="10"
+    color="#7BC8A4"
+  ></a-plane>
+</a-scene>
 ```
 
 
