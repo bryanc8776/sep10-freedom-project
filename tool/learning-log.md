@@ -181,7 +181,7 @@ Tool: **A-Frame**
     <a-mixin id="sphere" geometry="primitive: sphere"></a-mixin>
     <a-mixin
       id="cylinder"
-      geometry="primitive: cylinder; height: 1.5; "
+      geometry="primitive: cylinder; height: 1.5;"
     ></a-mixin>
   </a-assets>
 
@@ -190,9 +190,20 @@ Tool: **A-Frame**
     position="0 -0.5 -3"
     animation="property:rotation; from: 0 0 0; to: 0 360 0; dur: 2000; startEvents: click;"
   ></a-entity>
-  <a-entity mixin="blue sphere"></a-entity>
-  <a-entity mixin="red cylinder" position=" 3 0 -3"></a-entity>
-  <a-entity mixin="red blue cylinder" position=" -3 0 -3"></a-entity>
+  <a-entity
+    mixin="blue sphere"
+    animation="property: position; from: 0 0 0; to: 0 0 -6; dur: 5000; startEvents: click;"
+  ></a-entity>
+  <a-entity
+    mixin="red cylinder"
+    position=" 3 0 -3"
+    animation="property: rotation; from: 0 0 0; to: 360 0 0; dur: 2000; startEvents:click;"
+  ></a-entity>
+  <a-entity
+    mixin="red blue cylinder"
+    position=" -3 0 -3"
+    animation="property: position; from: -3 0 -3; to: 3 0 -3; dur: 5000; startEvents: click;"
+  ></a-entity>
   <a-entity mixin="blue red cylinder sphere" position="0 0 -6"></a-entity>
 
   <a-plane
