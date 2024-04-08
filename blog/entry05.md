@@ -1,7 +1,8 @@
-# Entry 5
-##### X/X/XX
+# Entry 5: Learning A-Frame
+##### 4/8/24
 
-Text
+### A-Frame
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
