@@ -20,10 +20,14 @@
 
 #### MVP
 
-* Task/Timeline
+* 4/12: Select template and make necessary changes (add components)
+* 4/13 --> 4/19: Finish adding components and add content/images
+* 4/20 --> 4/27: Finish adding A-Frame model/CSS and making website responsive
+* 4/28 --> 5/1: Make changes if needed and finalize HTML and CSS
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Add some more components
+* Add more images
