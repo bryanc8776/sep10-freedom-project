@@ -12,7 +12,9 @@
 * `#4b7a67`
 
 ## Fonts
-* [Text](URL)
+* [Tilt Neon](https://fonts.google.com/specimen/Tilt+Neon?preview.text=Accounting)
+* [Kanit](https://fonts.google.com/specimen/Kanit?preview.text=Accounting)
+* [DM Mono](https://fonts.google.com/specimen/DM+Mono?preview.text=Accounting&query=mono)
 
 ## Timeline
 
