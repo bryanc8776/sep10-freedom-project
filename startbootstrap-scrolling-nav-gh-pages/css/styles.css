@@ -598,8 +598,10 @@ progress {
 }
 
 .img-fluid {
-  max-width: 104%;
-  height: 80%;
+  max-width: 100%;
+  height: auto;
+  /* max-width: 104%; */
+  /* height: 80%; */
 }
 
 .img-thumbnail {
