@@ -1,5 +1,5 @@
-# Entry 6
-##### X/X/XX
+# Entry 6: Building a MVP
+##### 5/1/24
 
 Text
 
