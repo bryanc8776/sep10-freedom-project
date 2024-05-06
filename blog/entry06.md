@@ -6,6 +6,10 @@ To make a *Minimum Viable Product* website for **Accounting**, I had to choose a
 
 The first thing I did after unzipping the file was changing the *navbar* and the *header* of the website. For the *navbar*, I put the different sections of the website like *today* and *future*. I had a little trouble linking them to the sections because I forgot to put the `#` on `href` of the navbar or put the `#` on the `id` of the section which doesn't need the `#`. Sometimes I also misspelled the `id` so it didn't work.
 
+![Screenshot 2024-05-06 7 34 24 AM](https://github.com/bryanc8776/sep10-freedom-project/assets/146866834/03a891d9-c425-49ae-a427-a0c81a17e8e0)
+This is what the website looks like after I made the changes.
+
+
 ### Engineering Design Process
 In the EDP, I have brainstormed the possible solutions for the problems in accounting. Now I am planning the most promising solution and starting to create a prototype for the potential future.
 
