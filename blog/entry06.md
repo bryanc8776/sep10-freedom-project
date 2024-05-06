@@ -2,7 +2,7 @@
 ##### 5/1/24
 
 ### MVP
-To make a *Minimum Viable Product* for **Accounting**, we had to make a website. 
+To make a *Minimum Viable Product* website for **Accounting**, I had to choose a [bootstrap template](https://startbootstrap.com/?showAngular=false&showVue=false&showPro=false) to help me get started. I chose [this](https://startbootstrap.com/template/scrolling-nav) template because it was pretty simple and understandable. 
 
 ### Engineering Design Process
 In the EDP, I have brainstormed the possible solutions for the problems in accounting. Now I am planning the most promising solution and starting to create a prototype for the potential future.
