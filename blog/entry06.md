@@ -1,7 +1,8 @@
 # Entry 6: Building a MVP
 ##### 5/1/24
 
-### Content
+### MVP
+To make a *Minimum Viable Product* for **Accounting**, we had to make a website. 
 
 ### Engineering Design Process
 In the EDP, I have brainstormed the possible solutions for the problems in accounting. Now I am planning the most promising solution and starting to create a prototype for the potential future.
