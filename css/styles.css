@@ -2949,7 +2949,7 @@ textarea.form-control-lg {
 
 .btn-light {
   --bs-btn-color: #000;
-  --bs-btn-bg: ;
+  --bs-btn-bg: #566359;
   --bs-btn-border-color: #f8f9fa;
   --bs-btn-hover-color: #000;
   --bs-btn-hover-bg: #d3d4d5;
@@ -8208,7 +8208,7 @@ textarea.form-control-lg {
 
 .bg-gradient {
   background-image: var(--bs-gradient);
-  background-color: #566359 !important;
+  background-color: #4b7a67 !important;
 
 }
 
