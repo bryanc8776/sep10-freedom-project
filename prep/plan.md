@@ -29,9 +29,9 @@
 
 #### Beyond MVP
 
-* Add some more components
-* Add more images
-* Centralize images
-* Fix padding/spacing between sections
-* Fix color scheme
-* Change bullet points
+- [ ] Add some more components
+- [ ] Add more images
+- [ ] Centralize images
+- [ ] Fix padding/spacing between sections
+- [ ] Fix color scheme
+- [ ] Change bullet points
