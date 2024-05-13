@@ -7994,6 +7994,7 @@ textarea.form-control-lg {
 
 .text-center {
   text-align: center !important;
+  margin-top: 10px;
 }
 
 .text-decoration-none {
