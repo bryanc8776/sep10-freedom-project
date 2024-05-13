@@ -1,36 +1,11 @@
-# SEP10 Freedom Project
-by **X**
+# A-Frame Project
 
-## Context
-I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
+**[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
 
-For my project, I chose the topic of **X**. 
+**[Sponsor us to help support A-Frame development and its community](https://github.com/sponsors/dmarcos)**
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences.
 
-## Links
+Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Quest, desktop, mobile platforms.
 
-[Product]()
-
-[Presentation]()
-
-## Implications
-##### PROS
-* 
-##### CONS
-* 
-
-
-## Blog
-Below you will find my blog about how I made my project.
-
-* [Entry 1](blog/entry01.md)
-* [Entry 2](blog/entry02.md)
-* [Entry 3](blog/entry03.md)
-* [Entry 4](blog/entry04.md)
-* [Entry 5](blog/entry05.md)
-* [Entry 6](blog/entry06.md)
-* [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
+Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://aframe.io/docs/0.8.0/introduction/vr-headsets-and-webvr-browsers.html)!
