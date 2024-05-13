@@ -3,5 +3,99 @@
     <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
 </head>
 <body>
-    <a src="https://lightning-incredible-slash.glitch.me/"></a>
+    <a-scene>
+        <a-sky color="gray"></a-sky>
+        <a-camera position="0 1.5 1.5"
+          ><a-entity
+            geometry="primitive: box; width: 0.025; height:0.025; depth:0.1;"
+            material="color: black;"
+            position="0 0 -1"
+          ></a-entity
+        ></a-camera>
+        <a-entity
+          geometry="primitive: box; width: 2; height: 3; depth: 0.3"
+          position="0 1 -4"
+          material="color: #1f318c;"
+        >
+          <a-entity>
+            <a-entity
+              animation="property: rotation; to: 45 0 0; loop: true; dur: 10000"
+              collider-check
+              raycaster="objects: .collidable; showLine:true; line-color: #2ed914; direction: 0 0 1; far: 2;"
+              position="0 1.75 0"
+              rotation="0 25 0"
+            ></a-entity>
+          </a-entity>
+          <a-entity>
+            <a-entity
+              animation="property: rotation; to: 45 0 0; loop: true; dur: 10000"
+              collider-check
+              raycaster="objects: .collidable; showLine:true; line-color: #2ed914; direction: 0 0 1; far: 2;"
+              position="0 1.75 0"
+              rotation="0 -25 0"
+            ></a-entity>
+          </a-entity>
+          <a-entity>
+            <a-entity
+              animation="property: rotation; to: 45 0 0; loop: true; dur: 10000"
+              collider-check
+              raycaster="objects: .collidable; showLine:true; line-color: #2ed914; direction: 0 0 1; far: 2;"
+              position="0 1.75 0"
+              rotation="0 0 0"
+            ></a-entity>
+          </a-entity>
+          <a-entity>
+            <a-entity
+              animation="property: rotation; to: 45 0 0; loop: true; dur: 10000"
+              collider-check
+              raycaster="objects: .collidable; showLine:true; line-color: #2ed914; direction: 0 0 1; far: 2;"
+              position="0 1.75 0"
+              rotation="0 15 0"
+            ></a-entity>
+          </a-entity>
+          <a-entity>
+            <a-entity
+              animation="property: rotation; to: 45 0 0; loop: true; dur: 10000"
+              collider-check
+              raycaster="objects: .collidable; showLine:true; line-color: #2ed914; direction: 0 0 1; far: 2;"
+              position="0 1.75 0"
+              rotation="0 -15 0"
+            ></a-entity>
+          </a-entity>
+          <a-entity>
+            <a-entity
+              animation="property: rotation; to: 45 0 0; loop: true; dur: 10000"
+              collider-check
+              raycaster="objects: .collidable; showLine:true; line-color: #2ed914; direction: 0 0 1; far: 2;"
+              position="0 1.75 0"
+              rotation="0 5 0"
+            ></a-entity>
+          </a-entity>
+          <a-entity>
+            <a-entity
+              animation="property: rotation; to: 45 0 0; loop: true; dur: 10000;"
+              collider-check
+              raycaster="objects: .collidable; showLine:true; line-color: #2ed914; direction: 0 0 1; far: 2;"
+              position="0 1.75 0"
+              rotation="0 -5 0"
+            ></a-entity>
+          </a-entity>
+          <a-entity
+            class="collidable"
+            geometry="primitive: cylinder; radius: 0.1; height: 0.75;"
+            position="0 1.5 0"
+            material="color: #6e0e0c;"
+          ></a-entity>
+          <a-entity
+            geometry="primitive: plane; width: 1.75; height: 1.5;"
+            position="0 0.5 0.175"
+            material="color: #c9c7c7;"
+          ></a-entity>
+          <a-entity
+            geometry="primitive: box; width: 0.45; height: 0.45; depth: 0.1;"
+            position="-0.5 -0.75 0.2"
+            material="color: #444b6e;"
+          ></a-entity>
+        </a-entity>
+      </a-scene>
 </body>
