@@ -29,9 +29,9 @@
 
 #### Beyond MVP
 
-- [ ] Fix color scheme
-- [ ] Fix padding/spacing between sections
-- [ ] Add more images
+- [ ] Fix color scheme (add more variety of colors)
+- [ ] Fix padding/spacing between sections (make intro bigger)
+- [ ] Add more images (possibly on the header section)
 - [ ] Centralize images
 - [ ] Change bullet points
 - [ ] Add some more components
