@@ -489,7 +489,7 @@ progress {
 }
 
 .lead {
-  font-size: 2rem;
+  font-size: 1.75rem;
   font-weight: 300;
 }
 
@@ -7966,6 +7966,7 @@ textarea.form-control-lg {
 
 .fw-bolder {
   font-weight: bolder !important;
+  font-size: 2rem;
 }
 
 .lh-1 {
