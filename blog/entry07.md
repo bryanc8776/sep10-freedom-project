@@ -1,5 +1,5 @@
-# Entry 7
-##### X/X/XX
+# Entry 7: Final Product and Presentations
+##### 5/31/24
 
 Text
 
