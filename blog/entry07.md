@@ -39,6 +39,6 @@ Another skill is **Attention to Detail**. While creating my slideshow, I had to 
 
 
 
-[Previous](entry06.md) | [Next](entry08.md)
+[Previous](entry06.md) |
 
 [Home](../README.md)
