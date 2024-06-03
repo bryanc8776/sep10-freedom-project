@@ -16,9 +16,13 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* 
+* Environment - My website and future innovations will help reduce the amount of paper consumed in the accounting process.
+* Finance - It will help make finance/money management easier for accountants and businesses.
+* Individual - Accountants will have an easier time working and filling out records.
+* Government - My new inventions can help accountants prepare budgets and reports on things like taxes and spending for the governments.
 ##### CONS
-* 
+* Jobs - Can potentially lead to less employment due to higher efficiency.
+* Relationships - Can potentially lead to less partner work because of more AI integration and efficiency.
 
 
 ## Blog
