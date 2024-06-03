@@ -29,6 +29,13 @@ Some takeaways from giving my expo elevator pitch are:
 * make it clear that you are finished and ask if they have any questions
 * try to make eye contact and not just look at your website while showing it
 
+### Engineering Design Process
+In the EDP, I have created, tested and improved my prototype as needed. I have finished my website and my A-Frame model, communicated the results, and completed the EDP.
+
+### Skills
+A skill I have improved on is **Communication**. When I was presenting in front of the class, I felt very different from the beginning of the year. I felt more confident and I feel like my slides/creativity has greatly improved. In the expo, I also felt a little nervous but mostly confident and tried to speak as loud and clear as possible.
+
+Another skill is **Attention to Detail**. While creating my slideshow, I had to make sure the words and images were big enough for people far away to see. I also tried to make sure that there were no mistakes and the colors I used on my slides and website went well with one other. 
 
 
 
