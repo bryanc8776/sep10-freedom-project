@@ -22,7 +22,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 
 ## Blog
-Below you will find my blog about how I made my project.
+Below you will find my blogs about how I made my project.
 
 * [Entry 1](blog/entry01.md)
 * [Entry 2](blog/entry02.md)
@@ -31,6 +31,3 @@ Below you will find my blog about how I made my project.
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
