@@ -16,6 +16,19 @@ Some takeaways from giving my in-class presentation are:
 * it is important to make it clear when you finished presenting like saying "thank you" or asking a closing question
 
 #### Expo Elevator Pitch
+To present my website to the judges and visitors in the *expo*, I had to come up with an elevator pitch also in my [SEP notes](https://docs.google.com/document/d/1d4Iqk_jFlNMwwHxfGTrjYoIKm6YPVg-3qGr8oqAbF5s/edit#heading=h.6o1f62qg6jz9). I also tried to explain my process, what I used to make the website (e.g. bootstrap components), and how my product and A-Frame works within a minute. 
+
+##### Takeaways
+Some takeaways from giving my expo elevator pitch are:
+* show/point to the part you are talking about in your website
+* be short, simple, and descriptive
+* be approachable and welcome the visitors
+* start with a greeting
+* planning is very helpful
+* try to memorize what you plan on saying
+* make it clear that you are finished and ask if they have any questions
+* try to make eye contact and not just look at your website while showing it
+
 
 
 
